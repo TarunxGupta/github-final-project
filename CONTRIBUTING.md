@@ -10,4 +10,8 @@ We welcome all contributions, bug reports, bug fixes, documentation improvements
 4. Push to the branch: `git push origin my-branch-name`.
 5. Submit a pull request.
 
+# Contribution Guidelines
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Thank you for your contributions!
